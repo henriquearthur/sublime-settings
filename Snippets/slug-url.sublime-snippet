@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Utils::slugURL(${1:value});
+]]></content>
+	<tabTrigger>slug-url</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

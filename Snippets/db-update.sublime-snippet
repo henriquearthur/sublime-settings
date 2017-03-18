@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+DB::update("${1:table}",
+	array(
+		${2:'${3:column-set}' => ${4:value},}
+		${5:'${6:column-set}' => ${7:value},}
+		${8:'${9:column-set}' => ${10:value},}
+	),
+	${11:array(
+		'${12:column-where}' => ${13:value}
+	)}
+);
+]]></content>
+	<tabTrigger>db-update</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

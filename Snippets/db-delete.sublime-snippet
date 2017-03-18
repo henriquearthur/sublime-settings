@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+DB::delete("${1:table}",
+	${2:array(
+		'${3:column-set}' => ${4:value},
+	)}
+);
+]]></content>
+	<tabTrigger>db-delete</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

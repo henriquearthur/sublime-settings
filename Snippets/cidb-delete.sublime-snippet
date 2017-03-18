@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$this->ci->db->delete("${1:table}",${2: array(
+    '${3:column}' => ${4:value}
+)});
+]]></content>
+	<tabTrigger>cidb-delete</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
