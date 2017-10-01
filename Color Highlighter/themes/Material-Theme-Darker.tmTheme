@@ -16,15 +16,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_008000FF</string>
+<string>mcol_FFFFFFFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#008000FF</string>
+<string>#FFFFFFFF</string>
 <key>foreground</key>
-<string>#7FFF7FFF</string>
+<string>#000000FF</string>
 <key>caret</key>
-<string>#7FFF7FFF</string>
+<string>#000000FF</string>
 </dict>
 </dict>
 
@@ -32,47 +32,15 @@
 <key>name</key>
 <string>mon_text_color</string>
 <key>scope</key>
-<string>mcol_text_008000FF</string>
+<string>mcol_text_FFFFFFFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
 <string>#212122FF</string>
 <key>foreground</key>
-<string>#008000FF</string>
+<string>#FFFFFFFF</string>
 <key>caret</key>
-<string>#7FFF7FFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FF0000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FF0000FF</string>
-<key>foreground</key>
-<string>#4C0000FF</string>
-<key>caret</key>
-<string>#4C0000FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_FF0000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#212122FF</string>
-<key>foreground</key>
-<string>#FF0000FF</string>
-<key>caret</key>
-<string>#4C0000FF</string>
+<string>#000000FF</string>
 </dict>
 </dict>
 
@@ -97,7 +65,7 @@
 				<string>#65737e</string>
 				<key>lineHighlight</key>
 				<string>#00000050</string>
-				<key>popupCss</key>
+				<key>phantomCss</key>
 				<string><![CDATA[ html { background-color: #212121; color: #eeffffff; padding: 16px; } a { color: #B2CCD6; line-height: 16px; } .error, .deleted { color: #FF5370; } .success, .inserted { color: #C3E88D; } .warning, .modified { color: #FFCB6B; } .type { color: #89DDFF; font-style: italic; } .param { color: #F78C6C; } .current { text-decoration: underline; } ]]></string>
 				<key>selection</key>
 				<string>#61616150</string>
