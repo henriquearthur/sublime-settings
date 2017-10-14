@@ -8,10 +8,5 @@ Package Control.ca-certs/
 Color Highlighter/
 SublimeLinter/
 
-bh_core.sublime-settings
 BufferScroll.sublime-settings
-CSScomb.sublime-settings
-Note.sublime-settings
-SublimeLinter.sublime-settings
 trailing_spaces.sublime-settings
-SCSS.sublime-settings
