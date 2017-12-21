@@ -12,11 +12,12 @@
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Machine) (SL).tmTheme",
 	"content_highlight_bar": true,
 	"draw_minimap_border": true,
+	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"find_selected_text": true,
-	"font_face": "Roboto Mono",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"gray_antialias",
@@ -28,6 +29,7 @@
 	"ignore_threshold": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -35,8 +37,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 6,
-	"line_padding_top": 6,
+	"line_padding_bottom": 8,
+	"line_padding_top": 8,
 	"match_brackets": false,
 	"match_brackets_angle": false,
 	"match_brackets_braces": false,
@@ -44,7 +46,7 @@
 	"match_tags": false,
 	"monokai_pro_highlight_open_folders": true,
 	"monokai_pro_sidebar_font_size": 11,
-	"monokai_pro_sidebar_row_padding": 7,
+	"monokai_pro_sidebar_row_padding": 8,
 	"monokai_pro_small_scrollbar": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":

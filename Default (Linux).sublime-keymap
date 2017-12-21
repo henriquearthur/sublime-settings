@@ -10,7 +10,7 @@
     { "keys": ["f8"], "command": "implement" },
     { "keys": ["shift+f12"], "command": "goto_definition_scope" },
 
-    {"keys": ["ctrl+alt+t"], "command": "open_terminal"},
+    { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
 
     { "keys": ["alt+d"], "command": "goto_documentation" }
 ]
