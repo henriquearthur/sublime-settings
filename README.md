@@ -1,4 +1,4 @@
-# sublime-settings
+# my-sublime-settings
 Settings and packages I use on Sublime Text 3, this is the `Packages/User` folder.
 
     cd ~/.config/sublime-text-3/Packages
